@@ -18,6 +18,7 @@ HELP.md
 /out/
 **/out/
 **/build/
+/data/GoogleNews-vectors-negative300.bin.gz
 
 ### NetBeans ###
 /nbproject/private/
